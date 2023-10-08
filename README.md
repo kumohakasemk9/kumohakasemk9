@@ -1,4 +1,4 @@
-Greetings! I am kumohakase.
+Greetings! I am libcloud403.so.10 (formely kumohakase).
 ====
 I'm world's laziest programmer.   
 I speak Japanese main, but I write English main.  
@@ -29,4 +29,5 @@ Animals Veggies STM32 LPCXX Computers Linux Electronics Minecraft Leagueoflegend
 Program License:
 ====
 For non commercial use: https://creativecommons.org/licenses/by/4.0/   
-For commercial use: kumohakase takes 10% of your earning.
+For commercial use: libcloud403.so.10 takes 10% of your earning.   
+Please use kofi.com https://ko-fi.com/kumohakase    
