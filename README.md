@@ -1,4 +1,4 @@
-Greetings! I am libcloud403.so.10 (formely kumohakase).
+Greetings! I am kumohakase!.
 ====
 I'm world's laziest programmer.   
 I speak Japanese main, but I write English main.  
