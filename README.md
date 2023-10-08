@@ -29,5 +29,5 @@ Animals Veggies STM32 LPCXX Computers Linux Electronics Minecraft Leagueoflegend
 Program License:
 ====
 For non commercial use: https://creativecommons.org/licenses/by/4.0/   
-For commercial use: libcloud403.so.10 takes 10% of your earning.   
+For commercial use: kumo takes 10% of your earning.   
 Please use kofi.com https://ko-fi.com/kumohakase    
