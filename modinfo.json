@@ -1,8 +1,8 @@
 {
 	"name" : "1チャンクエンドラ討伐; 2024-12-26; by megante(主催) kamesuta",
 	"installName": "chunkbychunk-1.20.1-2024-12-26",
-	"motd": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.4.html ここにいった後、LatestのInstallerをクリックして、ページが遷移したら5秒待って、Downloadを押して、ダウンロードしたファイルをダブルクリックして、その後OKを連打してください。",
-	"forgeVer": "1.20.4-forge-49.1.21",
+	"motd": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html ここにいった後、LatestのInstallerをクリックして、ページが遷移したら5秒待って、Downloadを押して、ダウンロードしたファイルをダブルクリックして、その後OKを連打してください。",
+	"forgeVer": "1.20.1-forge-47.3.22",
 	"javaArgs": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
 	"modSources": [
 		"https://edge.forgecdn.net/files/5168/269/ChunkByChunk-forge-1.20.1-2.2.3.jar",
