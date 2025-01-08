@@ -3,7 +3,7 @@
 	"installName": "kumohakase-industrial-1.12.2-01-08-2025",
 	"motd": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html ここにいった後、LatestのInstallerをクリックして、ページが遷移したら5秒待って、Downloadを押して、ダウンロードしたファイルをダブルクリックして、その後OKを連打してください。",
 	"forgeVer": "1.12.2-forge-14.23.5.2860",
-	"eula" : "1. かめぱの規約を守ること。\n2. ezやi will kill youやタヒねなどの、人を傷つける言葉を使わないこと。\n3. かめすたさんとくもさんととむさんを崇めること。(感謝するだけです)\n4. 無職をバカにしないこと (色々事情があるのです)\n5. 他人の工場や建築物を荒らさないこと。\n6. 原発は安全地帯に立てること\n7. クラッキングしないこと。\n8. ルールを破った場合サーバーBANする可能性あり。",
+	"eula" : "0. パソコンのデータ消えても補償しない 1. かめぱの規約を守ること。\n2. ezやi will kill youやタヒねなどの、人を傷つける言葉を使わないこと。\n3. かめすたさんとくもさんととむさんを崇めること。(感謝するだけです)\n4. 無職をバカにしないこと (色々事情があるのです)\n5. 他人の工場や建築物を荒らさないこと。\n6. 原発は安全地帯に立てること\n7. クラッキングしないこと。\n8. ルールを破った場合サーバーBANする可能性あり。",
 	"modSources": [
 		"https://mediafilez.forgecdn.net/files/3438/487/tesla-core-lib-1.12.2-1.0.18.jar",
 		"https://mediafilez.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar",
