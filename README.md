@@ -1,7 +1,7 @@
 Greetings! I am kumohakase!.
 ====
 I'm world's laziest programmer.   
-I am almost American, despite I have Japanese passport, I write English and I've    
+I write English and I've    
 spent 3+ years in English server... But I still speak listen Japanese, English
 speak/listen is still hard for me..  
 Mentally unstable plus ADHD, unable to work (or very little possibility)   
